@@ -47,4 +47,6 @@ footer{
 }
 .jumbotron{
     padding: 10px;
+    margin-bottom: 0px;
+    border-radius: 0px;
 }
